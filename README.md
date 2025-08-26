@@ -1,4 +1,5 @@
-# Chat Simples com Sockets TCP e Tkinter
+# Chat Simples com Sockets TCP e a biblioteca Tkinter
+
 ### Trabalho Prático da disciplina de Redes de Computadores 1
 
 ## 📖 Sobre o Projeto
