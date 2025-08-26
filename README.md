@@ -79,4 +79,9 @@ A aplicação demonstra de forma prática como funciona a comunicação em redes
 
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/130513027?v=4" width="75">](https://github.com/beatriztl)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/63272510?v=4" width="75">](https://github.com/DenilsonBSouza)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/159035420?v=4" width="75">](https://github.com/LucasDL27)
+
+
+
 
