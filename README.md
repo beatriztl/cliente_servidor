@@ -77,4 +77,6 @@ A aplicação demonstra de forma prática como funciona a comunicação em redes
 
 ## 👨‍💻 Autores
 
-* **[Seu Nome Completo]** - *Desenvolvimento do projeto* - [@Seu-Usuario-GitHu](https://github.com/Seu-Usuario-GitHub)
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/130513027?v=4" width="75">](https://github.com/beatriztl)
+
