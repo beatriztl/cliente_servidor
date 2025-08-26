@@ -140,7 +140,7 @@ class SessaoChat:
 class ClienteInterface:
     def __init__(self, root):
         self.root = root
-        self.root.title("Cliente")
+        self.root.title("Cliente P2P")
 
         tk.Label(root, text="Servidor IP:").grid(row=0, column=0)
         self.servidor_ip = tk.Entry(root)
